@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641218410655",
+    "project_id": "mind-guide-abfb8",
+    "storage_bucket": "mind-guide-abfb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641218410655:android:e335bdeb0865c06e0bcaaa",
+        "android_client_info": {
+          "package_name": "com.example.mindguide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3_QHv_trOyUrOsPT_ss--uGsMf__h5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

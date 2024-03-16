@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_of_the_wave">#526D82</color>
+    <color name="color_of_the_toolbar">#27374D</color>
+    <color name="wave_background">#9DB2BF</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="color_left">#33527C</color>
+    <color name="color_center">@color/color_of_the_wave</color>
+    <color name="color_right">@color/wave_background</color>
+
+    <color name="textViewVeEditText_color">#184A50</color>
+    <color name="color_hint">#32184A50</color>
+    <color name="text_view_background_color">#DDE6ED</color>
+    <color name="colorEndBackground">#50FFFFFF</color>
+    <color name="color_information">#E1E6EC</color>
+
+    <color name="item_background_color">#DDE6ED</color>
+    <color name="dgdfgdfgdfg">#2B2D42</color>
+
+
+
+</resources>
